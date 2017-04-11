@@ -4,10 +4,10 @@ header: WBCHN 个人资料站
 --->
 
 # 资料
-[AWS 整理](./AWS.md)
-[Tmux 快捷键 & 速查表](./tmux.md)
-[开源](./opensource/)
-[大数据](./bigdata/)
+- [AWS 整理](./AWS.md)
+- [Tmux 快捷键 & 速查表](./tmux.md)
+- [开源](./opensource/)
+- [大数据](./bigdata/)
 
 ## 链接
 - [开发手册，汇集了前后端数据等等资料](http://devdocs.io/)
