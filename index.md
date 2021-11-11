@@ -28,3 +28,9 @@ header: WBCHN 个人资料站
 
 # 我的站点
 [WBCHN 博客](http://blog.7web.tk)
+
+# Other
+
+## Tools
+<a href="https://integrately.com?ref=6syucn&utm_campaign=Website Referral" target="_blank"><img src="https://integrately-images.s3-us-west-2.amazonaws.com/we-automate-with-integrately-dark.svg" width="120" alt="Integrately - Integrate Your Apps In 1 Click" title="Integrately - Integrate Your Apps In 1 Click
+Click to learn more"/></a>
